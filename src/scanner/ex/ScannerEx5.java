@@ -24,6 +24,7 @@ public class ScannerEx5 {
             System.out.println(i);
             if(i != num2){
                 System.out.println(",");
+                System.out.println(".");
             }
         }
     }
